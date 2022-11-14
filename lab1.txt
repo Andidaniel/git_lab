@@ -1,2 +1,4 @@
 ### EX 1 for THE GIT LAB - CREATING A BRANCH FROM THE GIT BASH TERMINAl
 EX 2A for lab
+ex2b for lab
+
